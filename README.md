@@ -27,6 +27,8 @@ Deliverable 1: Change Trip Duration to a Datetime Format
 
 - Pandas was used to change the datatype of the "tripduration" column from an integer to a datetime datatype to get the time in hours and minutes.
 
+**NOTE:** The csv file was not included in this repository as it cannnot be uploaded due to its file size.
+
 Before: unconverted csv file.
 
 ![](./pictures/pic.png)
