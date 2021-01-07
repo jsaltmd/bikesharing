@@ -41,7 +41,7 @@ code: df["tripduration"] = pd.to_datetime(df.tripduration,unit="m")
 
 
 
-
+Insert pictures here
 
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
