@@ -77,6 +77,6 @@ The bike-sharing program in Des Moines is a solid business proposal especially t
 
 I would like to see two additional visualizations that will show the following:
 
-1. Identify the most popular bike stations and show how many bikes are used and returned. To give us an idea if we need to supply more inentories in those areas.
+1. Identify the most popular bike stations and show how many bikes are used and returned. To give us an idea if we need to supply more inventories in those areas.
 
 2. Show stations that have the highest to lowest bike repairs and utilizations. This will help us move bikes around to temporarily replace damage bikes and help reduce costs. 
