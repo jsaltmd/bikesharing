@@ -39,10 +39,6 @@ After: converted csv file.
 
 **Deliverable 2:** Create Visualizations for the Trip Analysis
 
-The visualizations shown below are presented on a Tableau Story format. Click the link below to visit the website:
-
-[Link to Tableau Story with Dashboard](https://public.tableau.com/views/NYCCitibikeAnalysisStory/NYCCitibikeAnalysisStory?:language=en&:display_count=y&:origin=viz_share_link)
-
 1. Gender Breakdown: Based on the data report, the total number of trips in August is 2,344,224. In  this visualization, the data was analyzed to show the gender breakdown of Citi Bike riders to help our investors understand a little more about the customers in NYC and can be applied in Des Moines. The data shows that majority are male riders (1,530,272) followed by females (588,431).
 
 ![](./pictures/pic9.png)
@@ -70,6 +66,12 @@ The visualizations shown below are presented on a Tableau Story format. Click th
 7. Number of Trips: In this visualization, the number of bike trips by gender for each hour for each day of the week is shown as a heatmap. Most of the users are subscribers and male riders.
 
 ![](./pictures/pic7.png)
+
+**Deliverable 3:** Create a Story and Report for the Final Presentation.
+
+The visualizations shown below are presented on a Tableau Story format. Click the link below to visit the website:
+
+[Link to Tableau Story with Dashboard](https://public.tableau.com/views/NYCCitibikeAnalysisStory/NYCCitibikeAnalysisStory?:language=en&:display_count=y&:origin=viz_share_link)
 
 ### Summary:
 
