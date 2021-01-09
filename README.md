@@ -42,7 +42,7 @@ After: converted csv file.
 - Five visualizations from the challenge.
 - At least two visualizations created from the module.
 
-Data Analysis Summary: All generated data visualizations are presented side by side on a dashboard as shown on the image below. 
+**Data Analysis Summary:** *All generated data visualizations are presented side by side on a dashboard as shown on the image below.* 
 
 ![](./pictures/pic10.png)
 
