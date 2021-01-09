@@ -50,30 +50,37 @@ ____________________________________________________
  
 
 ![](./pictures/pic9.png)
+
 **1. Gender Breakdown:** *Based on the data report, the total number of trips in August is 2,344,224. In  this visualization, the data was analyzed to show the gender breakdown of Citi Bike riders to help our investors understand a little more about the customers in NYC and can be applied in Des Moines. The data shows that majority are male riders (1,530,272) followed by females (588,431). Visualization created from the module.
 *
 
 ![](./pictures/pic8.png)
+
 **2. August Peak Hours:** *This visualization shows the peak hours for bike trips during the month of August. This will help our investors get a ballpark estimate of how many bikes we might need in Des Moines. The data can help determine which parts of the day most of the bikes are needed and can also be useful for determining when to do maintenance on a bike knowing the peak usage hours. Visualization created from the module.*
 
 
 ![](./pictures/pic3.png)
+
 **3. Checkout Times per Users:** *This visualization shows the length of time that bikes are checked out for all riders. Visualization created from the challenge.*
 
 
 ![](./pictures/pic4.png)
+
 **4. Checkout Times by Gender:** *In this visualization,  the data shows the length of time that bikes are checked out for each gender. The highest number of bike used is >2,000 at a tripduration of 5hrs by male riders. The shorter (<1hr) and longer (23hrs) the tripduration, the less number of bikes are used regardless of gender. Visualization created from the challenge.
 *
 
 ![](./pictures/pic5.png)
+
 **5. Trips by Weekday per Hour:** *In this visualization,  the number of bike trips by weekday for each hour of the day is shown in a form of a heatmap. The data shows the peak hours of when bikes are mostly used on weekdays are around 7-9AM and 4-7PM which makes sense because these are the hours where people are reporting (AM) and leaving work (PM). And bikes are mostly used throughout the day on weekends. Visualization created from the challenge.
 *
 
 ![](./pictures/pic6.png)
+
 **6. Trips by Gender (Weekday per Hour):** *In this visualization, the number of bike trips by gender for each hour of each day of the week is shown in a form of a heatmap. Again, the peak hours are the same from the previous slide (Trips by Weekday per Hour) and most of the users are male riders followed by female riders. Visualization created from the challenge.
 *
 
 ![](./pictures/pic7.png)
+
 **7. Number of Trips:** *In this visualization, the number of bike trips by gender for each hour for each day of the week is shown as a heatmap. Most of the users are subscribers and male riders. Visualization created from the challenge.
 *
 
